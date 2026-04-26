@@ -1,0 +1,12 @@
+{
+  "name": "The Five Axes of the Quran — المحاور الخمسة للقرآن الكريم",
+  "short_name": "المحاور الخمسة",
+  "description": "Interactive trilingual app based on Sheikh Mohammed al-Ghazali's book",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#FBE9E7",
+  "theme_color": "#BF360C",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": []
+}
